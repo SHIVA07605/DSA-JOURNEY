@@ -11,4 +11,8 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
