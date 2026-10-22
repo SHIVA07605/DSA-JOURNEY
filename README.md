@@ -7,6 +7,7 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0001-two-sum) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
