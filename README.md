@@ -17,6 +17,7 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0009-palindrome-number) |
 ## String
 |  |
@@ -30,4 +31,12 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
