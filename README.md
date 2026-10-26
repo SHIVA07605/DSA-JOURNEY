@@ -13,6 +13,7 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
@@ -22,6 +23,7 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Two Pointers
 |  |
@@ -39,4 +41,8 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
