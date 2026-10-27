@@ -24,10 +24,12 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 ## Greedy
 |  |
@@ -45,4 +47,12 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
