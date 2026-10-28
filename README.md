@@ -19,6 +19,7 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0009-palindrome-number) |
 ## String
 |  |
