@@ -8,6 +8,7 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 | ------- |
 | [0001-two-sum](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -28,6 +29,7 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,9 +63,30 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
