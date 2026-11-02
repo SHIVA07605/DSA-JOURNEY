@@ -9,6 +9,7 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 | [0001-two-sum](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -25,6 +26,7 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 | [0007-reverse-integer](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0009-palindrome-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## String
 |  |
 | ------- |
@@ -91,4 +93,8 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
