@@ -11,6 +11,7 @@ My DSA journey with C++: learning data structures, algorithms, problem-solving, 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SHIVA07605/DSA-JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
